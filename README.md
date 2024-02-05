@@ -83,3 +83,5 @@ Mean and variance in this variant remain roughly similar
 | p-value                  | 0.01            | 0.0054         |
 | for distinct users       | 0.0             | 0.0224         |
 
+
+Due to the lack of data on the A/B test design, I cannot interpret the result, but I can only confidently say that there is a difference between the groups
