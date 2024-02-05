@@ -3,7 +3,7 @@
 ## Introduction/Background Context
 We have changed the icon for buying event products in our game.  We want to understand how this will affect user engagement and spending
 ### Hypothesis    
-H0: No change
+H0: No change    
 H1: There is a change
 
 ## Experimental Design
